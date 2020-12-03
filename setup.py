@@ -3,7 +3,7 @@ import sys
 import os
 import re
 
-PACKAGENAME = 'package'
+PACKAGENAME = 'parm'
 packageDir = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                           PACKAGENAME)
 
